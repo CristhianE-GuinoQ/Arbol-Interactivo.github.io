@@ -1,2 +1,2 @@
 # Árbol 3D Web Interactivo 🌐✨
-images/modelo.png
+![Modelo 3D](images/modelo.png)
